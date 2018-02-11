@@ -1,0 +1,40 @@
+<!--
+  Generated template for the ModalPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-content padding>
+
+  <!-- if true answer -->
+  <div *ngIf="stateModal" text-center>
+    <div class="content-modal">
+      <span class="truecls">
+        <ion-icon name="checkmark-circle"></ion-icon>
+      </span>
+    </div>
+  </div>
+
+  <!-- if wrong answer -->
+  <div text-center *ngIf="!stateModal && !lastVerdict">
+    <div class="content-modal">
+      <span class="wrongcls">
+        <ion-icon name="close-circle"></ion-icon>
+      </span>
+    </div>
+    <div class="div-btn">
+      <button ion-button (click)="closeModal()" color="secondary">Main Lagi</button>
+      <button ion-button (click)="closeLevel()" color="danger">Udahan</button>
+    </div>
+  </div>
+
+  <!-- if you pass the level -->
+  <div *ngIf="lastVerdict" text-center>
+    <div class="content-modal">
+      <span class="truecls">
+        <ion-icon name="thumbs-up"></ion-icon>
+      </span>
+      <h2 text-capitalize>level berikutnya terbuka</h2>
+    </div>
+  </div>
+</ion-content>

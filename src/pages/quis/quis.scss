@@ -1,0 +1,53 @@
+page-quis {
+  .question-con,
+  .opsi {
+    padding: 10px;
+    max-width: 100%
+  }
+  .panel {
+    background-color: rgba(0, 0, 0, 0.75);
+    padding: 50px 10px;
+    border: 3px dashed #ff0000;
+    border-radius: 5px;
+    color: #ffffff;
+  }
+  .panel span {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  .opsi .list .item {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  .radio-md .radio-inner {
+    border-radius: 0;
+  }
+  .opsi button {
+    padding: 20px;
+    font-size: 1.5rem;
+  }
+  @media screen and (min-width: 768px) {
+    .panel span,
+    .opsi .list .item {
+      font-size: 3rem;
+    }
+    .opsi button {
+      padding: 35px;
+      font-size: 2.5rem;
+    }
+    .panel {
+      padding: 70px 20px;
+    }
+  }
+  .invisible {
+    visibility: hidden;
+  }
+  .visible {
+    visibility: visible;
+  }
+  .trueans {
+    background-color: #2cc207 !important;
+  }
+}

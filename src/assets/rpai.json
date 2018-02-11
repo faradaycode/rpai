@@ -1,0 +1,402 @@
+[
+    {
+        "pertanyaan": "Rukun islam ada berapa",
+        "a": "2",
+        "b": "4",
+        "c": "5",
+        "d": "3",
+        "id_s": "1",
+        "level": "1",
+        "trueans": "c"
+    },
+    {
+        "pertanyaan": "Shalat subuh terdiri dari berapa rakaat",
+        "a": "4",
+        "b": "2",
+        "c": "3",
+        "d": "8",
+        "id_s": "2",
+        "level": "1",
+        "trueans": "b"
+    },
+    {
+        "pertanyaan": "Rukun iman ada berapa",
+        "a": "6",
+        "b": "5",
+        "c": "4",
+        "d": "7",
+        "id_s": "3",
+        "level": "1",
+        "trueans": "a"
+    },
+    {
+        "pertanyaan": "Qiyamuhu binafsihi artinya",
+        "a": "awal",
+        "b": "ada",
+        "c": "kekal",
+        "d": "berdiri dengan sendirinya",
+        "id_s": "4",
+        "level": "1",
+        "trueans": "d"
+    },
+    {
+        "pertanyaan": "Al Malik artinya",
+        "a": "Yang Maha Merajai",
+        "b": "Yang Mahasuci",
+        "c": "Yang Maha Pengampun",
+        "d": "Yang Maha Pemurah",
+        "id_s": "5",
+        "level": "1",
+        "trueans": "a"
+    },
+    {
+        "pertanyaan": "Malaikat yang memiliki tanggung jawab meniup terompet sangkakala di waktu hari kiamat.",
+        "a": "Nakir",
+        "b": "Israfil",
+        "c": "Atid",
+        "d": "Ridwan",
+        "id_s": "6",
+        "level": "1",
+        "trueans": "b"
+    },
+    {
+        "pertanyaan": "Thoharoh artinya",
+        "a": "najis",
+        "b": "kotor",
+        "c": "hadas",
+        "d": "bersuci",
+        "id_s": "7",
+        "level": "1",
+        "trueans": "d"
+    },
+    {
+        "pertanyaan": "Shalat wajib ada berapa",
+        "a": "5",
+        "b": "8",
+        "c": "10",
+        "d": "3",
+        "id_s": "8",
+        "level": "1",
+        "trueans": "a"
+    },
+    {
+        "pertanyaan": "Yang bukan shalat sunnah",
+        "a": "Shalat Tahiyatul Mesjid",
+        "b": "Shalat Isya",
+        "c": "Shalat Hajat",
+        "d": "Shalat Rawatib",
+        "id_s": "9",
+        "level": "1",
+        "trueans": "b"
+    },
+    {
+        "pertanyaan": "Bangun dari rukuk hingga berdiri tegak sambil mengangkat dua tangan disertai dengan mengucapkan",
+        "a": "Subhanaa robbiyal azhim.",
+        "b": "Rabbighfirlii, Rabbighfirlii.",
+        "c": "sami' allahu liman hamidah",
+        "d": "Subhana robbiyal a'laa wa bi hamdih",
+        "id_s": "10",
+        "level": "1",
+        "trueans": "c"
+    },
+    {
+        "pertanyaan": "Mengumpulkan dua shalat fardhu yang dilaksanakan dalam satu waktu disebut",
+        "a": "Shalat duha",
+        "b": "Shalat ashar",
+        "c": "Shalat Jama",
+        "d": "Shalat Qashar",
+        "id_s": "11",
+        "level": "2",
+        "trueans": "c"
+    },
+    {
+        "pertanyaan": "Dua sujud yang dilakukan oleh orang yang shalat untuk menggantikan kesalahan yang terjadi di dalam shalatnya karena lupa disebut",
+        "a": "Sujud Sahwi",
+        "b": "Bersedekap",
+        "c": "Rukuk",
+        "d": "Duduk diantara dua sujud",
+        "id_s": "12",
+        "level": "2",
+        "trueans": "a"
+    },
+    {
+        "pertanyaan": "Yang termasuk puasa wajib",
+        "a": "Puasa Arafah",
+        "b": "Puasa senin kamis",
+        "c": "Puasa Daud",
+        "d": "Puasa ramadhan",
+        "id_s": "13",
+        "level": "2",
+        "trueans": "d"
+    },
+    {
+        "pertanyaan": "Kegiatan mengelilingi Ka'bah dimulai dari hajar aswad dan berakhir di sana pula sebanyak 7 kali pada ibadah haji disebut",
+        "a": "Wukuf",
+        "b": "Thawaf",
+        "c": "Tahalul",
+        "d": "Sa'i",
+        "id_s": "14",
+        "level": "2",
+        "trueans": "b"
+    },
+    {
+        "pertanyaan": "Hukum shalat jum'at adalah",
+        "a": "Makruh",
+        "b": "Sunnah",
+        "c": "Wajib",
+        "d": "Biasa",
+        "id_s": "15",
+        "level": "2",
+        "trueans": "c"
+    },
+    {
+        "pertanyaan": "Menyatukan ihram untuk melaksanakan ibadah haji dan umrah sekaligus dalam satu waktu merupakan haji jenis apa",
+        "a": "Haji mabrur",
+        "b": "Haji Qiran",
+        "c": "Haji ifrad",
+        "d": "Haji tamattu",
+        "id_s": "16",
+        "level": "2",
+        "trueans": "b"
+    },
+    {
+        "pertanyaan": "Jual beli barang dengan pemesanan yang pembayarannya dilakukan pada waktu pengambilan barang dalam islam disebut akad apa.",
+        "a": "Bissamanil Ajil",
+        "b": "Isti'jar",
+        "c": "Istisna",
+        "d": "Ijarah",
+        "id_s": "17",
+        "level": "2",
+        "trueans": "c"
+    },
+    {
+        "pertanyaan": "Apa yang dimaksud dengan ujub",
+        "a": "Mengagumi diri sendiri",
+        "b": "Bodoh",
+        "c": "Niat yang jelek",
+        "d": "Riya",
+        "id_s": "18",
+        "level": "2",
+        "trueans": "a"
+    },
+    {
+        "pertanyaan": "Ayah nabi Ibrahim bernama ...",
+        "a": "Nuh",
+        "b": "Namrud",
+        "c": "Adam",
+        "d": "Azar",
+        "id_s": "19",
+        "level": "2",
+        "trueans": "d"
+    },
+    {
+        "pertanyaan": "Nabi Yakub Wafat di usia ...",
+        "a": "100 tahun",
+        "b": "85 tahun",
+        "c": "137 tahun",
+        "d": "25 tahun",
+        "id_s": "20",
+        "level": "2",
+        "trueans": "c"
+    },
+    {
+        "pertanyaan": "Perang Badar terjadi pada tanggal berapa",
+        "a": "22 Maret 625 M",
+        "b": "13 Maret 624 M",
+        "c": "8 Juli 625 M",
+        "d": "1 April 624 M",
+        "id_s": "21",
+        "level": "3",
+        "trueans": "b"
+    },
+    {
+        "pertanyaan": "Sifat nabi Muhammad yang patut diteladani dan artinya benar",
+        "a": "Fathonah",
+        "b": "Amanah",
+        "c": "Tabligh",
+        "d": "Shiddiq",
+        "id_s": "22",
+        "level": "3",
+        "trueans": "d"
+    },
+    {
+        "pertanyaan": "Khalifah islam pada tahun 632M adalah",
+        "a": "Abu Bakar As-Siddiq",
+        "b": "Umar bin Khattab",
+        "c": "Usman bin Affan",
+        "d": "Ali bin Abi Thalib",
+        "id_s": "23",
+        "level": "3",
+        "trueans": "a"
+    },
+    {
+        "pertanyaan": "Pemindahan kewajiban atas pembayaran hutang kepada orang lain yang memiliki sangkutan hutang disebut...",
+        "a": "Rahn",
+        "b": "Khiyar",
+        "c": "Riba",
+        "d": "Hiwalah",
+        "id_s": "24",
+        "level": "3",
+        "trueans": "d"
+    },
+    {
+        "pertanyaan": "Yang bukan termasuk Mahram Muaqqot...",
+        "a": "bibi dari istri",
+        "b": "Saudara perempuan dari istri",
+        "c": "Wanita yang sedang ihrom",
+        "d": "bukan mahram si laki2",
+        "id_s": "25",
+        "level": "3",
+        "trueans": "d"
+    },
+    {
+        "pertanyaan": "Umar bin Khattab memerintah pada tahun berapa...",
+        "a": "634-645 M",
+        "b": "634-644 M",
+        "c": "632-635 M",
+        "d": "623-635 M",
+        "id_s": "26",
+        "level": "3",
+        "trueans": "b"
+    },
+    {
+        "pertanyaan": "Sunan Gresik dikenal juga dengan panggilan",
+        "a": "Syarif Hidayatullah",
+        "b": "Maulana Ishak",
+        "c": "Syekh Magribi",
+        "d": "Raden Ainul Yakin",
+        "id_s": "27",
+        "level": "3",
+        "trueans": "c"
+    },
+    {
+        "pertanyaan": "Nabi Syu'aib adalah keturunan dari...",
+        "a": "Nabi Luth",
+        "b": "Nabi Yakub",
+        "c": "Nabi Musa",
+        "d": "Nabi Daud",
+        "id_s": "28",
+        "level": "3",
+        "trueans": "a"
+    },
+    {
+        "pertanyaan": "Talak yang diucapkan suami atas permintaan istri dengan pembayaran dari pihak istri kepada suami disebut",
+        "a": "Khulu",
+        "b": "Talak 3",
+        "c": "Iddah",
+        "d": "Talak Ba'in",
+        "id_s": "29",
+        "level": "3",
+        "trueans": "a"
+    },
+    {
+        "pertanyaan": "Salah satu kerajaan islam di papua",
+        "a": "Kerajaan Gowa",
+        "b": "Kesultanan Pasir",
+        "c": "Karajaan Salawati",
+        "d": "Kerajaan Jailolo",
+        "id_s": "30",
+        "level": "3",
+        "trueans": "c"
+    },
+    {
+        "pertanyaan": "Surat ke 96 dalam Al quran",
+        "a": "Al bayyinah",
+        "b": "Al ashr",
+        "c": "AL alaq",
+        "d": "Al fill",
+        "id_s": "31",
+        "level": "4",
+        "trueans": "c"
+    },
+    {
+        "pertanyaan": "Bacaan yang cara membacanya keluar dari dua bibir disebut",
+        "a": "Makhraj halqi",
+        "b": "Makhraj jaufi",
+        "c": "Makhraj khaisyum",
+        "d": "Makhraj syafawi",
+        "id_s": "32",
+        "level": "4",
+        "trueans": "d"
+    },
+    {
+        "pertanyaan": "Ketika perang zaturriqa , shalat apa yang diajarkan malaikat jibril kepada nabi Muhammad",
+        "a": "Khauf",
+        "b": "Rawatib",
+        "c": "Sunnah",
+        "d": "Tahajud",
+        "id_s": "33",
+        "level": "4",
+        "trueans": "a"
+    },
+    {
+        "pertanyaan": "Anak nabi Zakaria",
+        "a": "Daud",
+        "b": "Yahya",
+        "c": "Yunus",
+        "d": "Yakub",
+        "id_s": "34",
+        "level": "4",
+        "trueans": "b"
+    },
+    {
+        "pertanyaan": "Perang hunain adalah pertempuran nabi Muhammad dan pengikutnya dengan suku...",
+        "a": "Hawazin dan Tsaqif",
+        "b": "Quarisy",
+        "c": "Bani nadir",
+        "d": "Bani muharib",
+        "id_s": "35",
+        "level": "4",
+        "trueans": "a"
+    },
+    {
+        "pertanyaan": "Pemebrian kekuasaan untuk menyelesaikan transaksi tertentu disebut...",
+        "a": "Wadi'ah",
+        "b": "Rahn",
+        "c": "Wakalah",
+        "d": "Syirkah",
+        "id_s": "36",
+        "level": "4",
+        "trueans": "c"
+    },
+    {
+        "pertanyaan": "Salah satu tokoh muslim dibidang astronomi",
+        "a": "Ibnu majah",
+        "b": "Hurain bin Ishaq",
+        "c": "Al-ghazali",
+        "d": "Al-farazi",
+        "id_s": "37",
+        "level": "4",
+        "trueans": "d"
+    },
+    {
+        "pertanyaan": "Tokoh pembaharuan dunia islam masa modern yang lahir di Kawala, Yunani",
+        "a": "Jamaludin al-afgani",
+        "b": "Syah waliyullah",
+        "c": "Muhammad ali pasya",
+        "d": "Al-Tahtawi",
+        "id_s": "38",
+        "level": "4",
+        "trueans": "c"
+    },
+    {
+        "pertanyaan": "Berapa jumlah ahli waris dalam ketentuan hukum waris islam",
+        "a": "25",
+        "b": "15",
+        "c": "30",
+        "d": "5",
+        "id_s": "39",
+        "level": "4",
+        "trueans": "a"
+    },
+    {
+        "pertanyaan": "Dalam islam sewa meyewa disebut juga",
+        "a": "Riba",
+        "b": "Ijarah",
+        "c": "Rahn",
+        "d": "Syirkah",
+        "id_s": "40",
+        "level": "4",
+        "trueans": "b"
+    }
+]

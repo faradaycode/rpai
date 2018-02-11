@@ -1,0 +1,59 @@
+<!--
+  Generated template for the QuisPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<div class="true-overlay" text-center>
+  <h1>
+    <ion-icon name="checkmark-circle"></ion-icon>
+  </h1>
+</div>
+<ion-content padding>
+  <div id="soal-{{val}}">
+    <div class="question-con">
+      <div class="panel" text-left>
+        <span class="tx-question">{{datas.pertanyaan}} ?</span>
+      </div>
+    </div>
+    <div class="opsi">
+      <form [formGroup]="radioForm">
+        <ion-list no-lines [(ngModel)]="rbCheck" formControlName="listRadio" radio-group>
+          <ion-item id="a" [ngClass]="(trueA) ? 'trueans':''">
+            <ion-label>A. {{datas.a}}</ion-label>
+            <ion-radio item-left value="a"></ion-radio>
+          </ion-item>
+          <ion-item id="b" [ngClass]="(trueB) ? 'trueans':''">
+            <ion-label>B. {{datas.b}}</ion-label>
+            <ion-radio item-left value="b"></ion-radio>
+          </ion-item>
+          <ion-item id="c" [ngClass]="(trueC) ? 'trueans':''">
+            <ion-label>C. {{datas.c}}</ion-label>
+            <ion-radio item-left value="c"></ion-radio>
+          </ion-item>
+          <ion-item id="d" [ngClass]="(trueD) ? 'trueans':''">
+            <ion-label>D. {{datas.d}}</ion-label>
+            <ion-radio item-left value="d"></ion-radio>
+          </ion-item>
+        </ion-list>
+        <button ion-button block text-capitalize (click)="chkAnswer(datas.trueans)">periksa jawaban</button>
+      </form>
+    </div>
+    <div class="helpme">
+      <ion-fab bottom right #fab>
+        <button ion-fab color="danger">Help</button>
+        <ion-fab-list side="left">
+          <button ion-fab (click)="showTrue(fab)" [disabled]="!isRight">
+            <ion-icon name="checkmark"></ion-icon>
+          </button>
+          <button ion-fab (click)="fifty(fab)" [disabled]="!isFifty">
+            <span>50:50</span>
+          </button>
+          <button ion-fab (click)="askWA(datas.pertanyaan,fab)" [disabled]="!isWa">
+            <ion-icon name="logo-whatsapp"></ion-icon>
+          </button>
+        </ion-fab-list>
+      </ion-fab>
+    </div>
+  </div>
+</ion-content>

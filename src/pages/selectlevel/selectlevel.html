@@ -1,0 +1,35 @@
+<!--
+  Generated template for the SelectlevelPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+
+<ion-content padding>
+  <ion-list no-lines>
+    <button ion-item class="item-list" (click)="goto('QuisPage',1)">
+      <ion-avatar item-start>
+        <img src="assets/icon/unlocked.svg">
+      </ion-avatar>
+      <span>Level 1</span>
+    </button>
+    <button ion-item class="item-list" [disabled]=lock2 (click)="goto('QuisPage',2)">
+      <ion-avatar item-start>
+        <img src="assets/icon/locked.svg">
+      </ion-avatar>
+      <span>Level 2</span>
+    </button>
+    <button ion-item class="item-list" [disabled]=lock3 (click)="goto('QuisPage',3)">
+      <ion-avatar item-start>
+        <img src="assets/icon/locked.svg">
+      </ion-avatar>
+      <span>Level 3</span>
+    </button>
+    <button ion-item class="item-list" [disabled]=lock4 (click)="goto('QuisPage',4)">
+      <ion-avatar item-start>
+        <img src="assets/icon/locked.svg">
+      </ion-avatar>
+      <span>Level 4</span>
+    </button>
+  </ion-list>
+</ion-content>
